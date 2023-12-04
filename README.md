@@ -23,3 +23,10 @@
 [![Crowdin](https://badges.crowdin.net/cemiuiler/localized.svg)](https://crowdin.com/project/cemiuiler)
 
 您可以在[这里](https://crwd.in/cemiuiler)为 HyperCeiler 项目贡献翻译。
+
+[qgroup_url]: https://jq.qq.com/?_wv=1027&k=TedCJq8V
+[badge_qgroup]: https://img.shields.io/badge/QQ-群组-4DB8FF?style=for-the-badge&logo=tencentqq
+[qguild_url]: https://pd.qq.com/s/35ooe0ssj
+[badge_qguild]: https://img.shields.io/badge/QQ-频道-4991D3?style=for-the-badge&logo=tencentqq
+[telegram_url]: https://t.me/cemiuiler
+[badge_telegram]: https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2CA5E0&label=Telegram&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dcemiuiler
