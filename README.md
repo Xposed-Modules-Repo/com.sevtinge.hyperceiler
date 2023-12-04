@@ -12,7 +12,7 @@
 
 > 让 MIUI/HyperOS 再次伟大 ！
 >
-> <a href="https://github.com/heinu123">本项目源码</a>
+> <a href="https://github.com/ReChronoRain/HyperCeiler">本项目源码</a>
 
 ## 本项目说明
 - 基于原 Cemiuiler 模块进行开发，仅支持 MIUI14 和 HyperOS1.0，其他版本不再进行维护
