@@ -28,7 +28,10 @@ Android 14-15 的 HyperOS
 
 在[提交反馈](https://github.com/ReChronoRain/HyperCeiler/issues)前请注意是否已有相同反馈，避免给开发者造成困扰。花相同精力看相同反馈是一件很浪费时间的事情
 
-HyperCeiler 已停止维护 Android 11-13 的 MIUI ROM，如需使用请停留[此版本](https://github.com/ReChronoRain/Cemiuiler/releases/tag/1.3.130)
+HyperCeiler 已停止维护 Android 11-13 的 MIUI ROM 和 Android 13 的 HyperOS1.0 ROM
+
+> - Android 11-12 的 MIUI ROM 请使用 [此版本](https://github.com/ReChronoRain/Cemiuiler/releases/tag/1.3.130)
+> - Android 13 的 MIUI ROM 和 HyperOS1.0 ROM 请使用 [此版本](https://github.com/Xposed-Modules-Repo/com.sevtinge.hyperceiler/releases/download/3866-2.5.156_20250118/HyperCeiler_2.5.156_20250118_3866_release_miui.apk)
 
 ## 为 HyperCeiler 项目提交翻译
 
